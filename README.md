@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src=".\assets\mysql.png">
-<h2>MySQL - Notas de Estudo</h2>
+<h2>MySQL - Questionário</h2>
 <h3>⬝&nbsp; Índice &nbsp;⬝</h3>
 
 </div>
